@@ -1,1 +1,2 @@
-# gradient-generator
+# Gradient Generator
+
